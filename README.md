@@ -23,8 +23,6 @@ Tenho conhecimentos em Python, SQL, PostgreSQL, Power BI, Power Apps, Power Auto
 
 ---
 
----
-
 ### 🚀 Projeto em destaque
 
 #### 🩺 Ortopedia Vieira — Landing Page
