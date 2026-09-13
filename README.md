@@ -12,6 +12,10 @@ Tenho conhecimentos em Python, SQL, PostgreSQL, Power BI, Power Apps, Power Auto
 
 ### 🛠️ Tecnologias & Ferramentas
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgresql,aws,git,github" />
+</p>
+
 * **Dados & BI:** SQL · PostgreSQL · Power BI  
 * **Automação & Low-Code:** Power Apps · Power Automate  
 * **Processos:** BPM · BPMN · Kanban  
@@ -48,8 +52,15 @@ Continuar evoluindo na área de tecnologia, aprimorando meus conhecimentos em Py
 ---
 
 ### 📫 Contato
-* 📧 **E-mail:** [lincolnvalgas41@gmail.com](mailto:lincolnvalgas41@gmail.com)
-* 💼 **LinkedIn:** [Lincoln Valgas](https://www.linkedin.com/in/lincoln-valgas-1552242a9/)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lincoln-valgas-1552242a9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lincolnvalgas41@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
