@@ -23,11 +23,6 @@ Tenho conhecimentos em Python, SQL, PostgreSQL, Power BI, Power Apps, Power Auto
 
 ---
 
-### 📚 Atualmente estudando
-* ☁️ AWS  
-* 🗄️ SQL  
-* 🐘 PostgreSQL  
-
 ---
 
 ### 🚀 Projeto em destaque
